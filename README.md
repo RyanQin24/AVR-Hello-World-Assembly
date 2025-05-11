@@ -1,6 +1,6 @@
 # AVR-Hello-World-Assembly
 
-This is my first code written in assembly for an Atmega328p(AVR architecture). It prints "Hello World!" on a 16 x 2 LCD. This repository marks my first experience in assembly programming. For future experiences I'm currently switching to STM32 and FPGA as a 1B student at University of Waterloo.
+This is my first code written in assembly for an Atmega328p(AVR architecture). It prints "Hello World!" on a 16 x 2 LCD. This repository marks my first experience in assembly programming. For future experiences I'm currently switching to STM32 microcontroller while studying FPGA as a 1B student at University of Waterloo.
 
 Attached in this repository is the source code and logic analyzer file.
 
