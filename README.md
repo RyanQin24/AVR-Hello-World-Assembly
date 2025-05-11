@@ -6,7 +6,7 @@ This is my first code written in assembly for an Atmega328p(AVR architecture). I
 
 Here is a screenshot of the logic analyzer's output:
 
-![Screenshot 2025-05-11 102022](https://github.com/user-attachments/assets/ac91f676-0505-4110-9192-8763d2154939)
+![Screenshot 2025-05-11 171829](https://github.com/user-attachments/assets/de77e8a3-b65d-49d6-922d-aea44eae8664)
 
 For the circuit, this is the schematic:
 
