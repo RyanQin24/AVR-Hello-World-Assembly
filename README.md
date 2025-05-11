@@ -4,7 +4,7 @@ This is my first code written in assembly for an Atmega328p(AVR architecture). I
 
 Attached in this repository is the source code, logic analyzer file (.sr and below shows jpeg picture for those without pulseview software), and shematic.
 
-![DSC02399](https://github.com/user-attachments/assets/9feb621a-db1c-4611-b813-9e3a006ade2b)
+![Screenshot 2025-05-11 090037](https://github.com/user-attachments/assets/f92c93e8-efc9-49a5-93af-167a47967056)
 
 Message to future engineers:
 
