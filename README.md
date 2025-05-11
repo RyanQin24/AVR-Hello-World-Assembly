@@ -2,6 +2,8 @@
 
 This is my first code written in assembly for an Atmega328p(AVR architecture). It prints "Hello World!" on a 16 x 2 LCD. This repository marks my first experience in assembly programming. For future experiences I'm currently switching to STM32 microcontroller while studying FPGA as a 1B student at University of Waterloo.
 
+![Setup Image](https://github.com/user-attachments/assets/418fcf6c-9758-41c5-8c41-4b754c186b91)
+
 **Attached in this repository is the [Source Code](./Hello_World.asm) and [Logic Analyzer File](./Asm.sr).**
 
 Here is a screenshot of the logic analyzer's output:
