@@ -5,6 +5,7 @@ This is my first code written in assembly for an Atmega328p(AVR architecture). I
 **Attached in this repository is the [Source Code](./Hello_World.asm) and [Logic Analyzer File](./Asm.sr).**
 
 Here is a screenshot of the logic analyzer's output:
+
 ![Screenshot 2025-05-11 102022](https://github.com/user-attachments/assets/ac91f676-0505-4110-9192-8763d2154939)
 
 For the circuit, this is the schematic:
@@ -12,6 +13,7 @@ For the circuit, this is the schematic:
 ![Screenshot 2025-05-11 103403](https://github.com/user-attachments/assets/7a56162d-0ba0-4b13-bae2-6a952c9926b5)
 
 The demo image of my LCD:
+
 ![Demo Image (2)](https://github.com/user-attachments/assets/2f676a08-1a84-42ea-85d0-a4fda34dc970)
 
 Message to future engineers:
