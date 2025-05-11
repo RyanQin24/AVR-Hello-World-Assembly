@@ -13,10 +13,10 @@ For the circuit, this is the schematic:
 
 Message to future engineers:
 
-**Low level programming is a must for deeply understanding computer architecture, especially for chip design and control system design. 
+**Low level programming is a must for deeply understanding computer architecture, especially for chip design and control system design.**
 
-It may be intimidating at first but trust me, it will come handy in your Engineering career.
+**It may be intimidating at first but trust me, it will come handy in your Engineering career.**
 
-To start this journey, I suggest practicing with Port Registers First and slowly easily into assembly where you can practice writing code for  
+**To start this journey, I suggest practicing with Port Registers First and slowly easing into assembly where you can practice writing code for  
 Interrupt Service Routine(ISR), manipulating Stack, and performing simple I/O operations using Registers.**
 
